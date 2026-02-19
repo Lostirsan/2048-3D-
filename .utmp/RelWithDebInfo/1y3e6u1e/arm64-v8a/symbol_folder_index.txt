@@ -1,0 +1,1 @@
+C:\Users\egoro\Unity Project\--main\Client\2048 in 3D\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\1y3e6u1e\obj\arm64-v8a
